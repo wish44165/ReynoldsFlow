@@ -17,6 +17,7 @@ Chin-Tien Wu<sup>2,<a href="mailto:ctw@math.nctu.edu.tw" title="Corresponding Au
 > <i><sup>1</sup> The University of Melbourne, Parkville, Australia</i><br><i><sup>2</sup> Department of Applied Mathematics, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan</i><br>
 
 
+[![arXiv](https://img.shields.io/badge/arXiv-2503.04500-b31b1b.svg)](https://arxiv.org/html/2503.04500v3)
 
 
 <p align="center">
@@ -28,16 +29,19 @@ Chin-Tien Wu<sup>2,<a href="mailto:ctw@math.nctu.edu.tw" title="Corresponding Au
 </p>
 
 
-
 <p align="center">
   📱 <strong>Demo:</strong>
-  <a href="https://drive.google.com/file/d/1YExzGx79YOHdpmzr7wSqk6LJhS8sqp3D/view?usp=drive_link">Android</a> ·
-  <a href="https://drive.google.com/file/d/1y2jztxe3-rOxKN4onG751bdVeKrTinlP/view?usp=drive_link">iOS</a>
+  <a href="https://youtu.be/dBePWVhn6Wc?si=P82UR9_fQQODpvOA">Android</a> ·
+  <a href="https://youtu.be/-bM4L19dGoc?si=hTgMO6hoqm61LvKr">iOS</a>
   &nbsp;&nbsp;
   📦 <strong>Download:</strong>
-  <a href="https://drive.google.com/file/d/1FGWl2rqXRnx0CNE0HZlGAyyoBKSGdoDC/view?usp=drive_link">Android APK</a>
+  <a href="https://doi.org/10.5281/zenodo.22810894">Android APK</a>
 </p>
 
+
+
+
+## 🙏 Acknowledgments
 
 
 <details><summary>Datasets</summary>
