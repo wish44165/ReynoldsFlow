@@ -3,7 +3,7 @@
 
 
 
-> [ReynoldsFlow: Physics-Inspired Spatiotemporal Flow Representation for Video Understanding](https://arxiv.org/pdf/2503.04500)
+> [ReynoldsFlow: Physics-Inspired Spatiotemporal Flow Representation for Video Understanding](https://link.springer.com/chapter/10.1007/978-3-032-37422-6_31)
 > 
 > Yu-Hsi Chen<sup>1</sup>
 <a href="https://orcid.org/0009-0006-1771-0289"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="12" alt="ORCID"></a>,
